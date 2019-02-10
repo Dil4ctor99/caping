@@ -1,5 +1,8 @@
 <?php
-// FB : MANGGALA FEBRI VALENTINO
+// FB : Muhammad Amar Shidiq
+echo "───────────────────────────────────────────                 ── ▄▀ ▄▀▄ █▀▄ ▀ █▄─█ ▄▀▀  [`  ||    _    _.
+── █─ █▀█ █─█ █ █─▀█ █─▀▌ | L||| \/(/_|`_\|                 ── ─▀ ▀─▀ █▀─ ▀ ▀──▀ ▀▀▀───────────────────       : " ;
+
 echo "Masukkan UserId/Uid : ";
 $uid 	= trim(fgets(STDIN));
 echo "Masukkan N ID : ";
